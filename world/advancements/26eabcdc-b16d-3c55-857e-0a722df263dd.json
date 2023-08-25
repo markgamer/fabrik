@@ -1,0 +1,27 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-09-19 13:43:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-09-19 13:43:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-09-19 13:42:26 +0200"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2021-09-19 13:43:27 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

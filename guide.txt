@@ -1,0 +1,2 @@
+python -m streamlit run server.py
+ngrok tcp --region eu 25565
